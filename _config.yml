@@ -21,14 +21,15 @@ footer-links:
   email: jjang9hsm@gmail.com
   facebook:
   flickr:
-  github: soonminhwang/soonminhwang.github.io
+  github: https://github.com/soonminhwang
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCxBEUqewFIxcY2ntCajEPuw
+  # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
