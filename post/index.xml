@@ -369,8 +369,10 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
 &lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[header]
-image = &amp;quot;headers/getting-started.png&amp;quot;
-caption = &amp;quot;Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)&amp;quot;
+image = &amp;quot;&amp;quot;
+caption = &amp;quot;&amp;quot;
+#image = &amp;quot;headers/getting-started.png&amp;quot;
+#caption = &amp;quot;Image credit: [**Academic**](https://#github.com/gcushen/hugo-academic/)&amp;quot;
 
 &lt;/code&gt;&lt;/pre&gt;
 
