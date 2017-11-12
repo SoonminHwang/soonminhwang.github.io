@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>KAIST Multispectral Recognition Dataset in Day and Night</title>
+      <link>https://soonminhwang.github.io/publication/2018titskaist-benchmark/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2018titskaist-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>StairNet: Top-Down Semantic Aggregation for Accurate One Shot Detection</title>
       <link>https://soonminhwang.github.io/publication/2018wacvstairnet/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
@@ -1134,15 +1143,6 @@ y &amp;amp;=&amp;amp; 1+1   \\\\\\
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://soonminhwang.github.io/publication/2015uraicalibration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low-Cost Synchronization for Multispectral Cameras</title>
-      <link>https://soonminhwang.github.io/publication/2015uraisynchronization/</link>
-      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://soonminhwang.github.io/publication/2015uraisynchronization/</guid>
       <description></description>
     </item>
     
