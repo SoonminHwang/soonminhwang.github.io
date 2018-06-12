@@ -6,9 +6,75 @@
     <description>Recent content in Homes on Soonmin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Soonmin Hwang</copyright>
-    <lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Soonmin Hwang</copyright>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://soonminhwang.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://soonminhwang.github.io/home/about/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/home/about/</guid>
+      <description>I am a Ph.D candidate in KAIST majoring computer vision (adviser: Prof. In So Kweon). I worked as a full-time research intern in computer vision group at Qualcomm Research Austria.
+My research interests include computer vision, deep learning, and sensor fusion. In particular, I have been pursuing more robust visual perception for autonomous driving under harsh environments, e.g. night-time, sensor fault. Besides, I have broad interests in state-of-the-art computer vision algorithms such as semantic segmentation, depth estimation, video object segmentation, and skeleton-based action recognition.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://soonminhwang.github.io/home/publications/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://soonminhwang.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://soonminhwang.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>https://soonminhwang.github.io/home/patents/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/home/patents/</guid>
+      <description> Depth Estimation Based on Thermal Image, and Neural Network Learning Method Korea, Pending (10-2017-0023475), Feb 2017.
+ Pattern Board for Geometrical Calibration in Multi-spectral Camera System Korea, Pending (10-2016-0122950), Sep 2016.
+ Thermal Image Enhancement using Deep Learning Algorithm Korea, Pending (10-2016-0100058), Aug 2016.
+ Detecting Smoke from Image US20150030203 (Filed on May 2014).
+  </description>
+    </item>
+    
+    <item>
+      <title>Honors and Awards</title>
+      <link>https://soonminhwang.github.io/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/home/awards/</guid>
+      <description> Travel grant ($4,500), Research supporting program, Kakao Corp., Jun 2018
+ Honorable mention ($ 2,000 / Accept rate ~6.5%), The 24th HumanTech Paper Award, Samsung, Feb 2018
+ Gold prize ($ 10,000 / Accept rate 0.7%), The 23th HumanTech Paper Award, Samsung, Feb 2017
+ Bronze prize, Korea Invention Patent Exhibition (KINPEX), Dec 2016
+ 1st place, NVidia Deep Learning Contest, NVidia Korea, Nov 2016
+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://soonminhwang.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

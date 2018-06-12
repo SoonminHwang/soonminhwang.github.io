@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multispectral on Soonmin</title>
+    <link>https://soonminhwang.github.io/tags/multispectral/</link>
+    <description>Recent content in Multispectral on Soonmin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Soonmin Hwang</copyright>
+    <lastBuildDate>Thu, 29 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://soonminhwang.github.io/tags/multispectral/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multispectral Recognition Dataset</title>
+      <link>https://soonminhwang.github.io/project/2018t-tismultispectral-recognition/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/project/2018t-tismultispectral-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multispectral Pedestrian Benchmark</title>
+      <link>https://soonminhwang.github.io/project/2015cvprmultispectral-pedestrian/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/project/2015cvprmultispectral-pedestrian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
