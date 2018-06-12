@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Soonmin</title>
+    <link>https://soonminhwang.github.io/tags/</link>
+    <description>Recent content in Tags on Soonmin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Soonmin Hwang</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://soonminhwang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://soonminhwang.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Multispectral</title>
+      <link>https://soonminhwang.github.io/tags/multispectral/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/multispectral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedestrian</title>
+      <link>https://soonminhwang.github.io/tags/pedestrian/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/pedestrian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://soonminhwang.github.io/tags/post/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

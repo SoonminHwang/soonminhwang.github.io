@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://soonminhwang.github.io/publication/2018tradaptivefusion/</loc>
+      <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://soonminhwang.github.io/publication/2018titskaist-benchmark/</loc>
       <lastmod>2018-05-02T00:00:00+00:00</lastmod>
     </url>
@@ -68,15 +77,6 @@
     
     <url>
     
-      <loc>https://soonminhwang.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://soonminhwang.github.io/publication/2016irosten/</loc>
       <lastmod>2016-10-26T00:00:00+00:00</lastmod>
     </url>
@@ -106,51 +106,6 @@
     
       <loc>https://soonminhwang.github.io/publication/2016ivdrivable-region/</loc>
       <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://soonminhwang.github.io/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://soonminhwang.github.io/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://soonminhwang.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://soonminhwang.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://soonminhwang.github.io/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00+09:00</lastmod>
     </url>
     
   
@@ -230,15 +185,6 @@
     
     <url>
     
-      <loc>https://soonminhwang.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://soonminhwang.github.io/publication/2013iccasvocabulary-trees/</loc>
       <lastmod>2013-10-17T00:00:00+00:00</lastmod>
     </url>
@@ -268,27 +214,17 @@
     
     <url>
     
+      <loc>https://soonminhwang.github.io/publication_types/4/</loc>
+      <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://soonminhwang.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://soonminhwang.github.io/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00+09:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://soonminhwang.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -358,7 +294,7 @@
     <url>
     
       <loc>https://soonminhwang.github.io/</loc>
-      <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -6,9 +6,11 @@
     <description>Recent content in Readings on Soonmin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Soonmin Hwang</copyright>
+    <copyright>&amp;copy; 2018 Soonmin Hwang</copyright>
     <lastBuildDate>Mon, 09 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/readings/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://soonminhwang.github.io/readings/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Deep learning as software 2.0</title>
