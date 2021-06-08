@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kibaek Park on Soonmin Hwang</title>
+    <link>https://soonminhwang.github.io/authors/kibaek-park/</link>
+    <description>Recent content in Kibaek Park on Soonmin Hwang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://soonminhwang.github.io/authors/kibaek-park/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KAIST Multispectral Recognition Dataset in Day and Night</title>
+      <link>https://soonminhwang.github.io/publication/2018_tits_kaist_benchmark/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2018_tits_kaist_benchmark/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;drawing_of_sensor_platform.png&#34; alt=&#34;platform&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thermal-Infrared based Drivable Region Detection</title>
+      <link>https://soonminhwang.github.io/publication/2016_iv_drivable_region/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2016_iv_drivable_region/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geometrical Calibration of Multispectral Calibration</title>
+      <link>https://soonminhwang.github.io/publication/2015_urai_calibration/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2015_urai_calibration/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-Cost Synchronization for Multispectral Cameras</title>
+      <link>https://soonminhwang.github.io/publication/2015_urai_sync/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2015_urai_sync/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All-Day Visual Place Recognition: Benchmark Dataset and Baselines</title>
+      <link>https://soonminhwang.github.io/publication/2015_cvprw_allday_place/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2015_cvprw_allday_place/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

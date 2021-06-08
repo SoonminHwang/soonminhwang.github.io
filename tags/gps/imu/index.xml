@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPS/IMU on Soonmin Hwang</title>
+    <link>https://soonminhwang.github.io/tags/gps/imu/</link>
+    <description>Recent content in GPS/IMU on Soonmin Hwang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="https://soonminhwang.github.io/tags/gps/imu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KAIST Multispectral Recognition Dataset in Day and Night</title>
+      <link>https://soonminhwang.github.io/publication/2018_tits_kaist_benchmark/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2018_tits_kaist_benchmark/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;drawing_of_sensor_platform.png&#34; alt=&#34;platform&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multispectral Recognition Dataset</title>
+      <link>https://soonminhwang.github.io/project/multispectral-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/project/multispectral-recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

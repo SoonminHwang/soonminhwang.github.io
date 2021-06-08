@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sensor fusion on Soonmin Hwang</title>
+    <link>https://soonminhwang.github.io/tags/sensor-fusion/</link>
+    <description>Recent content in sensor fusion on Soonmin Hwang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 26 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://soonminhwang.github.io/tags/sensor-fusion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fast Multiple Objects Detection and Tracking Fusing Color Camera and 3D LIDAR for Intelligent Vehicles</title>
+      <link>https://soonminhwang.github.io/publication/2016_urai_datmo/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2016_urai_datmo/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Since the KITTI dataset does not provide ground truth annotation for the test set, we disjointly split the train set into two subsets. We utilize the first subset for train and the other for test.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Video 1: Seqence #15 in KITTI training set
+&lt;a href=&#34;https://www.youtube.com/watch?v=UvLk65VgPJ0&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/UvLk65VgPJ0/maxresdefault.jpg&#34; alt=&#34;Seqence #15 in KITTI training set&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video 2: Seqence #16 in KITTI training set
+&lt;a href=&#34;https://www.youtube.com/watch?v=yGleC6A4ZSA&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/yGleC6A4ZSA/maxresdefault.jpg&#34; alt=&#34;Seqence #16 in KITTI training set&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video 3: Seqence #20 in KITTI training set
+&lt;a href=&#34;https://www.youtube.com/watch?v=jTJ8_TAfy9M&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/jTJ8_TAfy9M/maxresdefault.jpg&#34; alt=&#34;Seqence #16 in KITTI training set&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

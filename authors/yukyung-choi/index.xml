@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yukyung Choi on Soonmin Hwang</title>
+    <link>https://soonminhwang.github.io/authors/yukyung-choi/</link>
+    <description>Recent content in Yukyung Choi on Soonmin Hwang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://soonminhwang.github.io/authors/yukyung-choi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pedestrian Detection in the Wild: A Fault Tolerant Approach</title>
+      <link>https://soonminhwang.github.io/publication/2018_tr_adaptive_fusion/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2018_tr_adaptive_fusion/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KAIST Multispectral Recognition Dataset in Day and Night</title>
+      <link>https://soonminhwang.github.io/publication/2018_tits_kaist_benchmark/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2018_tits_kaist_benchmark/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;drawing_of_sensor_platform.png&#34; alt=&#34;platform&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multispectral Transfer Network: Unsupervised Depth Estimation for All-day Vision</title>
+      <link>https://soonminhwang.github.io/publication/2018_aaai_mtn/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2018_aaai_mtn/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thermal Image Enhancement using Convolution Neural Network</title>
+      <link>https://soonminhwang.github.io/publication/2016_iros_ten/</link>
+      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2016_iros_ten/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Extended result
+&lt;a href=&#34;https://www.youtube.com/watch?v=WPjacBXYM_w&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/WPjacBXYM_w/maxresdefault.jpg&#34; alt=&#34;Extended result&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast Multiple Objects Detection and Tracking Fusing Color Camera and 3D LIDAR for Intelligent Vehicles</title>
+      <link>https://soonminhwang.github.io/publication/2016_urai_datmo/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2016_urai_datmo/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Since the KITTI dataset does not provide ground truth annotation for the test set, we disjointly split the train set into two subsets. We utilize the first subset for train and the other for test.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Video 1: Seqence #15 in KITTI training set
+&lt;a href=&#34;https://www.youtube.com/watch?v=UvLk65VgPJ0&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/UvLk65VgPJ0/maxresdefault.jpg&#34; alt=&#34;Seqence #15 in KITTI training set&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video 2: Seqence #16 in KITTI training set
+&lt;a href=&#34;https://www.youtube.com/watch?v=yGleC6A4ZSA&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/yGleC6A4ZSA/maxresdefault.jpg&#34; alt=&#34;Seqence #16 in KITTI training set&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Video 3: Seqence #20 in KITTI training set
+&lt;a href=&#34;https://www.youtube.com/watch?v=jTJ8_TAfy9M&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/jTJ8_TAfy9M/maxresdefault.jpg&#34; alt=&#34;Seqence #16 in KITTI training set&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thermal-Infrared based Drivable Region Detection</title>
+      <link>https://soonminhwang.github.io/publication/2016_iv_drivable_region/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2016_iv_drivable_region/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geometrical Calibration of Multispectral Calibration</title>
+      <link>https://soonminhwang.github.io/publication/2015_urai_calibration/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2015_urai_calibration/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-Cost Synchronization for Multispectral Cameras</title>
+      <link>https://soonminhwang.github.io/publication/2015_urai_sync/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2015_urai_sync/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARTRIEVAL: Painting Retrieval Without Expert Knowledge</title>
+      <link>https://soonminhwang.github.io/publication/2015_icip_artrieval/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2015_icip_artrieval/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All-Day Visual Place Recognition: Benchmark Dataset and Baselines</title>
+      <link>https://soonminhwang.github.io/publication/2015_cvprw_allday_place/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2015_cvprw_allday_place/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multispectral Pedestrian Detection: Benchmark Dataset and Baselines</title>
+      <link>https://soonminhwang.github.io/publication/2015_cvpr_multispectral_ped/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2015_cvpr_multispectral_ped/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Vocabulary Trees for Localization in Robot Applications</title>
+      <link>https://soonminhwang.github.io/publication/2013_iccas_vocabulary_tree/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2013_iccas_vocabulary_tree/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

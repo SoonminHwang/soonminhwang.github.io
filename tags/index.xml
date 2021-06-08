@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Soonmin Hwang</title>
+    <link>https://soonminhwang.github.io/tags/</link>
+    <description>Recent content in Tags on Soonmin Hwang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://soonminhwang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>object detection</title>
+      <link>https://soonminhwang.github.io/tags/object-detection/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/object-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>one-stage object detector</title>
+      <link>https://soonminhwang.github.io/tags/one-stage-object-detector/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/one-stage-object-detector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fault tolerant</title>
+      <link>https://soonminhwang.github.io/tags/fault-tolerant/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/fault-tolerant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multispectral</title>
+      <link>https://soonminhwang.github.io/tags/multispectral/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/multispectral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pedestrian detection</title>
+      <link>https://soonminhwang.github.io/tags/pedestrian-detection/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/pedestrian-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aligned visible and thermal</title>
+      <link>https://soonminhwang.github.io/tags/aligned-visible-and-thermal/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/aligned-visible-and-thermal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benchmark</title>
+      <link>https://soonminhwang.github.io/tags/benchmark/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lidar</title>
+      <link>https://soonminhwang.github.io/tags/lidar/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/lidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>depth estimation</title>
+      <link>https://soonminhwang.github.io/tags/depth-estimation/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/depth-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multispectral transfer network</title>
+      <link>https://soonminhwang.github.io/tags/multispectral-transfer-network/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/multispectral-transfer-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>single image</title>
+      <link>https://soonminhwang.github.io/tags/single-image/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/single-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thermal image</title>
+      <link>https://soonminhwang.github.io/tags/thermal-image/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/thermal-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>super resolution</title>
+      <link>https://soonminhwang.github.io/tags/super-resolution/</link>
+      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thermal image enhancement</title>
+      <link>https://soonminhwang.github.io/tags/thermal-image-enhancement/</link>
+      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/thermal-image-enhancement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>detection and tracking</title>
+      <link>https://soonminhwang.github.io/tags/detection-and-tracking/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/detection-and-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensor fusion</title>
+      <link>https://soonminhwang.github.io/tags/sensor-fusion/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/sensor-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drivable region</title>
+      <link>https://soonminhwang.github.io/tags/drivable-region/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/drivable-region/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stereo</title>
+      <link>https://soonminhwang.github.io/tags/stereo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/stereo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>https://soonminhwang.github.io/tags/academia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calibration</title>
+      <link>https://soonminhwang.github.io/tags/calibration/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synchronization</title>
+      <link>https://soonminhwang.github.io/tags/synchronization/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/synchronization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>color clustering</title>
+      <link>https://soonminhwang.github.io/tags/color-clustering/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/color-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactive search</title>
+      <link>https://soonminhwang.github.io/tags/interactive-search/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/interactive-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metric learning</title>
+      <link>https://soonminhwang.github.io/tags/metric-learning/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/metric-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>painting retrieval</title>
+      <link>https://soonminhwang.github.io/tags/painting-retrieval/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/painting-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>place recognition</title>
+      <link>https://soonminhwang.github.io/tags/place-recognition/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/place-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vocabulary tree</title>
+      <link>https://soonminhwang.github.io/tags/vocabulary-tree/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/vocabulary-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS/IMU</title>
+      <link>https://soonminhwang.github.io/tags/gps/imu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/gps/imu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

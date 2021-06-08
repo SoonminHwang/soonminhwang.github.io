@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>one-stage object detector on Soonmin Hwang</title>
+    <link>https://soonminhwang.github.io/tags/one-stage-object-detector/</link>
+    <description>Recent content in one-stage object detector on Soonmin Hwang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://soonminhwang.github.io/tags/one-stage-object-detector/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gated Bidirectional Feature Pyramid Network for Accurate One-shot Detection</title>
+      <link>https://soonminhwang.github.io/publication/2019_mva_gbfpn/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2019_mva_gbfpn/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StairNet: Top-Down Semantic Aggregation for Accurate One Shot Detection</title>
+      <link>https://soonminhwang.github.io/publication/2018_wacv_stairnet/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2018_wacv_stairnet/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
