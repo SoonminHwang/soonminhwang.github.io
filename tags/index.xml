@@ -7,10 +7,55 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://soonminhwang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>first-person view</title>
+      <link>https://soonminhwang.github.io/tags/first-person-view/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/first-person-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>https://soonminhwang.github.io/tags/simulation/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trajectory prediction</title>
+      <link>https://soonminhwang.github.io/tags/trajectory-prediction/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/trajectory-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monocular depth estimation</title>
+      <link>https://soonminhwang.github.io/tags/monocular-depth-estimation/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/monocular-depth-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transformer</title>
+      <link>https://soonminhwang.github.io/tags/transformer/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/transformer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>object detection</title>

@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://soonminhwang.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,72 @@
     <item>
       <title>__Soonmin Hwang__</title>
       <link>https://soonminhwang.github.io/authors/__soonmin-hwang__/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://soonminhwang.github.io/authors/__soonmin-hwang__/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Stoler</title>
+      <link>https://soonminhwang.github.io/authors/benjamin-stoler/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/benjamin-stoler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Oh</title>
+      <link>https://soonminhwang.github.io/authors/jean-oh/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/jean-oh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meghdeep Jana</title>
+      <link>https://soonminhwang.github.io/authors/meghdeep-jana/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/meghdeep-jana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daechan Han</title>
+      <link>https://soonminhwang.github.io/authors/daechan-han/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/daechan-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeongmin Shin</title>
+      <link>https://soonminhwang.github.io/authors/jeongmin-shin/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/jeongmin-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Namil Kim</title>
+      <link>https://soonminhwang.github.io/authors/namil-kim/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/namil-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yukyung Choi</title>
+      <link>https://soonminhwang.github.io/authors/yukyung-choi/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/yukyung-choi/</guid>
       <description></description>
     </item>
     
@@ -54,24 +117,6 @@
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://soonminhwang.github.io/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Namil Kim</title>
-      <link>https://soonminhwang.github.io/authors/namil-kim/</link>
-      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://soonminhwang.github.io/authors/namil-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yukyung Choi</title>
-      <link>https://soonminhwang.github.io/authors/yukyung-choi/</link>
-      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://soonminhwang.github.io/authors/yukyung-choi/</guid>
       <description></description>
     </item>
     
