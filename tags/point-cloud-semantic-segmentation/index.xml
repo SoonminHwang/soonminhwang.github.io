@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>point cloud semantic segmentation on Soonmin Hwang</title>
+    <link>https://soonminhwang.github.io/tags/point-cloud-semantic-segmentation/</link>
+    <description>Recent content in point cloud semantic segmentation on Soonmin Hwang</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://soonminhwang.github.io/tags/point-cloud-semantic-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instant Domain Augmentation for LiDAR Semantic Segmentation</title>
+      <link>https://soonminhwang.github.io/publication/2023_cvpr_lidomaug/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2023_cvpr_lidomaug/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

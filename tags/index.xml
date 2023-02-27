@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2023 03:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://soonminhwang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>first-person view</title>
       <link>https://soonminhwang.github.io/tags/first-person-view/</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Feb 2023 03:00:00 +0000</pubDate>
       
       <guid>https://soonminhwang.github.io/tags/first-person-view/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>simulation</title>
       <link>https://soonminhwang.github.io/tags/simulation/</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Feb 2023 03:00:00 +0000</pubDate>
       
       <guid>https://soonminhwang.github.io/tags/simulation/</guid>
       <description></description>
@@ -33,9 +33,63 @@
     <item>
       <title>trajectory prediction</title>
       <link>https://soonminhwang.github.io/tags/trajectory-prediction/</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Feb 2023 03:00:00 +0000</pubDate>
       
       <guid>https://soonminhwang.github.io/tags/trajectory-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curriculum data augmentation</title>
+      <link>https://soonminhwang.github.io/tags/curriculum-data-augmentation/</link>
+      <pubDate>Mon, 27 Feb 2023 01:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/curriculum-data-augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multispectral homography estimation</title>
+      <link>https://soonminhwang.github.io/tags/multispectral-homography-estimation/</link>
+      <pubDate>Mon, 27 Feb 2023 01:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/multispectral-homography-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phase congruency-based loss</title>
+      <link>https://soonminhwang.github.io/tags/phase-congruency-based-loss/</link>
+      <pubDate>Mon, 27 Feb 2023 01:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/phase-congruency-based-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>efficient data augmentation for instant domain augmentation</title>
+      <link>https://soonminhwang.github.io/tags/efficient-data-augmentation-for-instant-domain-augmentation/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/efficient-data-augmentation-for-instant-domain-augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>point cloud semantic segmentation</title>
+      <link>https://soonminhwang.github.io/tags/point-cloud-semantic-segmentation/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/point-cloud-semantic-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensor-bias problem</title>
+      <link>https://soonminhwang.github.io/tags/sensor-bias-problem/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/tags/sensor-bias-problem/</guid>
       <description></description>
     </item>
     
