@@ -29,7 +29,7 @@
   
     
   
-  <meta name="description" content="In this paper, we present a comprehensive study on multispectral homography estimation in an unsupervised learning manner. We introduce a FLIR-corresponding dataset that can be used to evaluate image registration methods. Our model running at 151 FPS achieved state-of-the-art performance on the proposed FLIR-correspondence dataset and showed good generalization without retraining on the M3FD dataset.">
+  <meta name="description" content="In this paper, we present a comprehensive study on unsupervised multispectral homography estimation. We introduce a FLIR-corresponding dataset that can be used to evaluate image registration methods. Our model running at 151 FPS achieved state-of-the-art performance on the proposed FLIR-correspondence dataset and showed good generalization without retraining on the M3FD dataset.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://soonminhwang.github.io/publication/2023_ral_umhe/">
@@ -124,12 +124,12 @@
   <meta property="og:site_name" content="Soonmin Hwang">
   <meta property="og:url" content="https://soonminhwang.github.io/publication/2023_ral_umhe/">
   <meta property="og:title" content="UMHE: Unsupervised Multispectral Homography Estimation | Soonmin Hwang">
-  <meta property="og:description" content="In this paper, we present a comprehensive study on multispectral homography estimation in an unsupervised learning manner. We introduce a FLIR-corresponding dataset that can be used to evaluate image registration methods. Our model running at 151 FPS achieved state-of-the-art performance on the proposed FLIR-correspondence dataset and showed good generalization without retraining on the M3FD dataset."><meta property="og:image" content="https://soonminhwang.github.io/img/icon-192.png">
+  <meta property="og:description" content="In this paper, we present a comprehensive study on unsupervised multispectral homography estimation. We introduce a FLIR-corresponding dataset that can be used to evaluate image registration methods. Our model running at 151 FPS achieved state-of-the-art performance on the proposed FLIR-correspondence dataset and showed good generalization without retraining on the M3FD dataset."><meta property="og:image" content="https://soonminhwang.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://soonminhwang.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2022-11-30T01:00:00&#43;00:00">
+  <meta property="article:published_time" content="2023-04-22T01:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2022-11-30T01:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2023-04-22T01:00:00&#43;00:00">
   
 
   
@@ -390,8 +390,8 @@
 
 
 
-<meta content="2022-11-30 01:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2022-11-30 01:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2023-04-22 01:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-04-22 01:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -404,7 +404,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jeongmin-shin/">Jeongmin Shin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jiwon-kim/">Jiwon Kim</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/seokjun-kwon/">Seokjun Kwon</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/namil-kim/">Namil Kim</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/__soonmin-hwang__/"><strong>Soonmin Hwang</strong></a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yukyung-choi/">Yukyung Choi</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jeongmin-shin/">Jeongmin Shin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jiwon-kim/">Jiwon Kim</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/seokjun-kwon/">Seokjun Kwon</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/namil-kim/">Namil Kim</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yukyung-choi/">Yukyung Choi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/__soonmin-hwang__/"><strong>Soonmin Hwang</strong></a></span>
 
   </div>
   
@@ -415,7 +415,7 @@
   
   <span class="pub-publication">
     
-      Under review
+      <em>Under review (RA-L)</em>
     
   </span>
   
@@ -546,7 +546,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The homography estimation task has been widely studied for image alignment, and adopted in many computer vision tasks. However, most studies on unsupervised homography estimation have been conducted on RGB datasets, not on multispectral datasets, e.g., RGB-LWIR. In this paper, we present a comprehensive study on multispectral homography estimation in an unsupervised learning manner. We observed that existing unsupervised homography estimation methods suffer with multispectral image datasets, due to the significant spectral gap between the two heterogeneous cameras. To alleviate entangled spectral/geometric problems in raw multispectral pairs and improve training stability, we propose a curriculum data augmentation. We also propose a phase congruency-based loss that calculates the correct registration error between the multispectral pairs in the frequency domain. Since there is no publicly available multispectral dataset for image registration, we introduce a FLIR-corresponding dataset that can be used to evaluate image registration methods. Our model running at 151 FPS achieved state-of-the-art performance on the proposed FLIR-correspondence dataset among both supervised and unsupervised homography estimation methods and showed good generalization without retraining on the M3FD dataset.</p>
+    <p class="pub-abstract" itemprop="text">Homography estimation has been widely studied for image alignment and adopted in many computer vision tasks. However, since most studies on unsupervised homography estimation have been conducted on RGB datasets, they have difficulty with multispectral images due to the significant spectral gap between the two heterogeneous images. This paper presents a comprehensive study on multispectral homography estimation in an unsupervised learning manner. To alleviate entangled problems of spectral/geometric issues in multispectral pairs, we propose a curriculum data augmentation, an effective solution for models learning spectrum-agnostic representation by providing diverse input pairs. We also propose to use the phase congruency loss that explicitly calculates the reconstruction between images based on low-level structural information in the frequency domain. We introduce a novel FLIR corresponding dataset to encourage multispectral alignment research. Our model achieves state-of-the-art alignment performance on the proposed FLIR correspondence dataset among supervised and unsupervised methods while running at 151 FPS. Furthermore, our model shows good generalization ability on the M3FD dataset without finetuning.</p>
     
 
     
@@ -574,7 +574,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Under review</div>
+          <div class="col-12 col-md-9"><em>Under review (RA-L)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>

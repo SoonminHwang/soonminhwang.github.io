@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 01 Mar 2023 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2023 01:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://soonminhwang.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,54 @@
     <item>
       <title>__Soonmin Hwang__</title>
       <link>https://soonminhwang.github.io/authors/__soonmin-hwang__/</link>
-      <pubDate>Wed, 01 Mar 2023 03:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Apr 2023 01:00:00 +0000</pubDate>
       
       <guid>https://soonminhwang.github.io/authors/__soonmin-hwang__/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeongmin Shin</title>
+      <link>https://soonminhwang.github.io/authors/jeongmin-shin/</link>
+      <pubDate>Sat, 22 Apr 2023 01:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/jeongmin-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiwon Kim</title>
+      <link>https://soonminhwang.github.io/authors/jiwon-kim/</link>
+      <pubDate>Sat, 22 Apr 2023 01:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/jiwon-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Namil Kim</title>
+      <link>https://soonminhwang.github.io/authors/namil-kim/</link>
+      <pubDate>Sat, 22 Apr 2023 01:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/namil-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seokjun Kwon</title>
+      <link>https://soonminhwang.github.io/authors/seokjun-kwon/</link>
+      <pubDate>Sat, 22 Apr 2023 01:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/seokjun-kwon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yukyung Choi</title>
+      <link>https://soonminhwang.github.io/authors/yukyung-choi/</link>
+      <pubDate>Sat, 22 Apr 2023 01:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/authors/yukyung-choi/</guid>
       <description></description>
     </item>
     
@@ -63,51 +108,6 @@
       <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://soonminhwang.github.io/authors/kwonyoung-ryu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeongmin Shin</title>
-      <link>https://soonminhwang.github.io/authors/jeongmin-shin/</link>
-      <pubDate>Wed, 30 Nov 2022 01:00:00 +0000</pubDate>
-      
-      <guid>https://soonminhwang.github.io/authors/jeongmin-shin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiwon Kim</title>
-      <link>https://soonminhwang.github.io/authors/jiwon-kim/</link>
-      <pubDate>Wed, 30 Nov 2022 01:00:00 +0000</pubDate>
-      
-      <guid>https://soonminhwang.github.io/authors/jiwon-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Namil Kim</title>
-      <link>https://soonminhwang.github.io/authors/namil-kim/</link>
-      <pubDate>Wed, 30 Nov 2022 01:00:00 +0000</pubDate>
-      
-      <guid>https://soonminhwang.github.io/authors/namil-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seokjun Kwon</title>
-      <link>https://soonminhwang.github.io/authors/seokjun-kwon/</link>
-      <pubDate>Wed, 30 Nov 2022 01:00:00 +0000</pubDate>
-      
-      <guid>https://soonminhwang.github.io/authors/seokjun-kwon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yukyung Choi</title>
-      <link>https://soonminhwang.github.io/authors/yukyung-choi/</link>
-      <pubDate>Wed, 30 Nov 2022 01:00:00 +0000</pubDate>
-      
-      <guid>https://soonminhwang.github.io/authors/yukyung-choi/</guid>
       <description></description>
     </item>
     
