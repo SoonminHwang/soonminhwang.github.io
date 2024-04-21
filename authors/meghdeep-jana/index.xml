@@ -7,17 +7,29 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://soonminhwang.github.io/authors/meghdeep-jana/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>SafeShift: Safety-Informed Distribution Shifts for Robust Trajectory Prediction in Autonomous Driving</title>
+      <link>https://soonminhwang.github.io/publication/2024-iv_safeshift/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://soonminhwang.github.io/publication/2024-iv_safeshift/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>T2FPV: Dataset and Method for Correcting First-Person View Errors in Pedestrian Trajectory Prediction</title>
-      <link>https://soonminhwang.github.io/publication/2023_iros_t2fpv/</link>
+      <link>https://soonminhwang.github.io/publication/2023_iros_t2fpv/index_iv/</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://soonminhwang.github.io/publication/2023_iros_t2fpv/</guid>
+      <guid>https://soonminhwang.github.io/publication/2023_iros_t2fpv/index_iv/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
